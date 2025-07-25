@@ -19,7 +19,7 @@ This repository contains a Jupyter notebook that walks through a complete machin
 
 This notebook demonstrates the process of building classification models using R, focusing on:
 
-- Data loading and splitting using `caret::createDataPartition`
+- Data loading and splitting using `caret`
 - Algorithm comparison using resampling and cross-validation
 - Model selection and prediction evaluation
 - Visualization of classification performance
