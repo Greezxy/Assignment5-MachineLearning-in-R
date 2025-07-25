@@ -65,7 +65,7 @@ All results are fully reproducible with the provided environment and dataset.
 ## Project Structure
 Assignment5-MachineLearning-in-R/  
 ├── Machine Learning in R.ipynb       # Jupyter notebook with full ML workflow in R  
-├── environment-assignment5-r.yml     # Conda environment for R notebook
+├── environment-assignment5-r.yml     # Conda environment for R notebook  
 ├── iris.csv                          # Iris dataset used for training and evaluation  
 └── README.md                         # Project overview and setup instructions
 
