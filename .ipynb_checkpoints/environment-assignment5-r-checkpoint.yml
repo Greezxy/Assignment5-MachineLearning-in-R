@@ -1,0 +1,16 @@
+name: iris-ml-r
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-base=4.2
+  - jupyterlab
+  - r-irkernel
+  - r-caret
+  - r-e1071
+  - r-ggplot2
+  - r-randomforest
+  - r-readr
+  - r-tidyverse
+prefix: /users/PAS2916/weiyidg/.conda/envs/iris-ml-r
